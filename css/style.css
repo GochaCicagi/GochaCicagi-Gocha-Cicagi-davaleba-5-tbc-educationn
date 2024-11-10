@@ -116,7 +116,7 @@ display: inline-block;}
 .mpy14{width: 778px;
 height: 280px;
 color: #4E6FAE;
-font-family: FiraGO;
+font-family: "ALK Sanet", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -156,7 +156,7 @@ display: inline-block;}
 .mpy19{width: 1021px;
 height: 148px;
 color: #4E6FAE;
-font-family: FiraGO;
+font-family: "ALKDots", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -246,7 +246,7 @@ padding-left: 23px;
 padding-right: 170px;
 padding-bottom: 29px;
 color: #3F4145;
-font-family: "Helvetica Neue LT GEO";
+font-family: "BPG DedaEna Block", sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
@@ -275,7 +275,7 @@ margin-left: 30px;
 display: inline-block;
 vertical-align: top;}
 .mpy35{color: #3F4145;
-font-family: "Helvetica Neue LT GEO";
+font-family: "BPG Glaho Bold", sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
@@ -346,7 +346,7 @@ display: inline-block;}
 .mpy46{
 height: 34px;
 color: #4E6FAE;
-font-family: "Helvetica Neue";
+font-family: "BPG LE Studio 04 Caps", sans-serif;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
@@ -380,7 +380,7 @@ font-weight: 400;
 line-height: normal;
 padding-left: 165px;padding-top: 20px;
 ;vertical-align: top;}
-.mpy50{display: inline-block;vertical-align: top;width: 944px;
+.mpy50{display: inline-block;vertical-align: top;width: 844px;
 height: 485px; vertical-align: middle;
 margin-top: 150px}
 .mpy51{display: inline-block;}
